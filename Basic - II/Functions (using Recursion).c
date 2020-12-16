@@ -19,12 +19,6 @@ float absoluteValue(float c){
 	return c;	
 } 
 
-int squarenumber(int d){
-	if (d == 0)
-		return 0;
-	return d*d;	
-}
-
 int main()
 {
     int a, b;
